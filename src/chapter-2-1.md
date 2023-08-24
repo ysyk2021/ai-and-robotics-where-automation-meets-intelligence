@@ -1,5 +1,3 @@
-Overview of Robotics
-=====================================================
 
 Robotics is a rapidly evolving field that involves the design, development, and application of robots. These technologies have the potential to transform various industries, from manufacturing to healthcare. In this chapter, we will provide an overview of robotics and its key components.
 

@@ -1,5 +1,3 @@
-Service Robots and Social Robotics
-============================================================
 
 In this chapter, we will discuss two specific types of robots: service robots and social robotics. These robots are designed to interact with humans in different ways, and have applications in a variety of industries.
 
@@ -23,5 +21,4 @@ Conclusion
 ----------
 
 Service robots and social robotics are two specific types of robots that have the potential to transform various industries. While they offer numerous benefits, it is important to consider the potential ethical implications of their use. By understanding the capabilities and limitations of these technologies, we can make informed decisions about how to best leverage them for our specific needs while also ensuring that they align with ethical standards and contribute to a sustainable and equitable future for all.
-
 

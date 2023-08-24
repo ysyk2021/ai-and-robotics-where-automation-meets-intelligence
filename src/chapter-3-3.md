@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Robotics
-=======================================================================================
 
 Artificial intelligence (AI) plays a critical role in enabling robots to perform complex tasks with precision and accuracy. In this chapter, we will examine several case studies that highlight the use of AI in robotics.
 

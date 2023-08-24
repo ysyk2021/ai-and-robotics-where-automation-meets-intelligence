@@ -1,5 +1,3 @@
-Types of Robots
-========================
 
 Robots come in various shapes and sizes, each designed to perform specific tasks or functions. In this chapter, we will provide an overview of the different types of robots and their applications.
 

@@ -1,5 +1,3 @@
-The Need for Automation and Intelligence in Robotics
-===========================================================================
 
 The need for automation and intelligence in robotics has become increasingly prevalent as technology continues to advance. In this chapter, we will discuss the importance of automation and intelligence in robotics.
 

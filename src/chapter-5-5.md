@@ -1,5 +1,3 @@
-Human-Robot Interaction and Collaboration
-====================================================================================================
 
 Human-robot interaction and collaboration are essential components of robotics, enabling robots to work alongside humans in various settings. In this chapter, we will discuss the role of machine learning and control systems in enabling effective human-robot interaction and collaboration.
 

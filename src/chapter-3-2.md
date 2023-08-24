@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Robotics
-==========================================================================================
 
 Artificial intelligence (AI) plays a critical role in enabling robots to perform complex tasks with precision and accuracy. In this chapter, we will examine the advantages and limitations of AI in robotics.
 
@@ -25,5 +23,4 @@ Conclusion
 ----------
 
 The use of AI in robotics has numerous advantages and limitations. By understanding the advantages and limitations discussed in this chapter, we can make informed decisions about how to best leverage AI in robotics for our specific needs while also ensuring that they align with ethical standards and contribute to a sustainable and equitable future for all.
-
 

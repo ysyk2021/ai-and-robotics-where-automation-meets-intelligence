@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Robotics
-=================================================================================================================
 
 Artificial intelligence (AI) plays a critical role in enabling robots to perform complex tasks with precision and accuracy. In this chapter, we will discuss the different types of AI and their applications in robotics.
 

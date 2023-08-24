@@ -1,5 +1,3 @@
-Motion Control and Trajectory Optimization
-=====================================================================================================
 
 Machine learning and control systems play a critical role in robotics, enabling robots to perform complex tasks with precision and accuracy. In this chapter, we will discuss the use of machine learning and control systems in motion control and trajectory optimization.
 

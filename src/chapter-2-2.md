@@ -1,5 +1,3 @@
-Traditional Approaches to Robotics
-===================================================================
 
 Robotics is a rapidly evolving field that involves the design, development, and application of robots. In this chapter, we will discuss some of the traditional approaches to robotics.
 

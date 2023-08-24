@@ -1,5 +1,3 @@
-Overview of Machine Learning and Control Systems in Robotics
-=======================================================================================================================
 
 Machine learning and control systems play a critical role in robotics, enabling robots to perform complex tasks with precision and accuracy. In this chapter, we will provide an overview of machine learning and control systems in robotics.
 

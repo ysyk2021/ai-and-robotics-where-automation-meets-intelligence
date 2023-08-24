@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Robotics
-=======================================================================
 
 Artificial intelligence (AI) and robotics are two rapidly evolving fields that are transforming the way we live and work. In this chapter, we will provide an overview of AI and robotics, including their history, definitions, and applications.
 

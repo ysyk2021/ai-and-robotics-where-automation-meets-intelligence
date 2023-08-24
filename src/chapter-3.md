@@ -1,5 +1,3 @@
-Artificial Intelligence in Robotics
-============================================
 
 Artificial intelligence (AI) has become an increasingly important component of robotics, allowing robots to perform more complex tasks and adapt to changing environments. In this chapter, we will discuss the types of AI used in robotics, as well as their advantages and limitations.
 

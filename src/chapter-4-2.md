@@ -1,5 +1,3 @@
-Industrial Robots and Manufacturing Automation
-========================================================================
 
 In this chapter, we will discuss industrial robots and manufacturing automation. These technologies have revolutionized the manufacturing industry and have applications in a wide range of industries.
 

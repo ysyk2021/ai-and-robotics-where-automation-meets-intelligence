@@ -1,5 +1,3 @@
-Military and Defense Robotics
-=======================================================
 
 Military and defense robotics are designed for use in military applications, such as reconnaissance, surveillance, and bomb disposal. These robots can be remotely controlled or autonomous, and are often equipped with cameras, sensors, and other technologies that allow them to navigate and interact with their environment. In this chapter, we will discuss the key features and applications of military and defense robotics.
 

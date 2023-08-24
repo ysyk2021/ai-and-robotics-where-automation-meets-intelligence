@@ -1,5 +1,3 @@
-Perception and Sensing
-=================================================================================
 
 Perception and sensing are critical components of robotics, enabling robots to perceive and interpret their environment through the use of sensors and other technologies. In this chapter, we will discuss the role of machine learning and control systems in perception and sensing.
 

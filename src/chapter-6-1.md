@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Robotics
-=========================================================================================
 
 The integration of artificial intelligence (AI) in robotics has created many opportunities for businesses and industries. However, it also raises ethical concerns related to the use of these technologies. In this chapter, we will discuss some of the key ethical issues associated with the use of AI in robotics.
 

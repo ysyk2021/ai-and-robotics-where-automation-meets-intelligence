@@ -1,5 +1,3 @@
-Ethical Considerations
-===============================
 
 As AI and robotics continue to evolve, the ethical considerations associated with their use become increasingly important. In this chapter, we will discuss some of the ethical issues associated with the use of AI in robotics, best practices for ensuring ethical and responsible AI in robotics, and future directions and challenges.
 

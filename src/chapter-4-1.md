@@ -1,5 +1,3 @@
-Overview of Types of Robots
-=====================================================
 
 Robots are becoming increasingly common in our daily lives, from manufacturing and healthcare to entertainment and education. As the field of robotics continues to evolve, it is important to understand the different types of robots and their applications. In this chapter, we will provide an overview of the main types of robots.
 

@@ -1,5 +1,3 @@
-Understanding Robotics
-===============================
 
 Robotics is a rapidly evolving field that involves the design, development, and application of robots. In this chapter, we will provide an overview of robotics and discuss traditional approaches to robotics, as well as their limitations and challenges.
 

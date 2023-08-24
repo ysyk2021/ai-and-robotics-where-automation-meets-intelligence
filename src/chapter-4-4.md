@@ -1,5 +1,3 @@
-Medical Robots and Surgical Assistance
-================================================================
 
 Medical robots and surgical assistance are designed for use in healthcare settings, providing valuable support to medical professionals and improving patient outcomes. In this chapter, we will discuss the key features and applications of medical robots and surgical assistance.
 
