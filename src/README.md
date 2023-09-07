@@ -12,3 +12,7 @@ To ensure that AI in robotics is developed and used ethically and responsibly, w
 By reading this book, you will gain a comprehensive understanding of AI and robotics and their potential impact on society. Whether you are a student, researcher, professional, or simply interested in these technologies, this book provides a valuable resource for anyone seeking to understand the intersection of automation and intelligence.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
